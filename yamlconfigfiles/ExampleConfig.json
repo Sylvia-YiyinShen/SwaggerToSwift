@@ -1,0 +1,8 @@
+{
+	"projectName":"SylviaExampleClient",
+	"podVersion":"1.1.0",
+	"podAuthors":"Sylvia",
+	"podHomepage":"https://www.sylvia.com",
+	"podSummary":"Sylvia's example APIs",
+	"podDescription":"Swagger Codegen - Auto generated example API model sources from YAML file"
+}
