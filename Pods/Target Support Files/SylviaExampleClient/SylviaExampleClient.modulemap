@@ -1,0 +1,6 @@
+framework module SylviaExampleClient {
+  umbrella header "SylviaExampleClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
