@@ -5,15 +5,15 @@ This repo also contains a simple SwaggerConfig file and example yaml file for so
 
 java -jar Desktop/swagger-codegen-cli-2.3.0-20171221.103805-388.jar generate 
      
-     -c /Desktop/yamlconfigfiles/ExampleConfig.json 
+  -c /Desktop/yamlconfigfiles/ExampleConfig.json 
      
-     -i /Desktop/yamlconfigfiles/Exmaple.yaml 
+  -i /Desktop/yamlconfigfiles/Exmaple.yaml 
      
-     -l swift4 
+  -l swift4 
      
-     -o Desktop/ExampleOutput 
+  -o Desktop/ExampleOutput 
      
-     --type-mappings Double=Decimal
+  --type-mappings Double=Decimal
 
 Please check the tutorial below for more information
 A guide of how to setup and use Swagger-codegen to genererate Swift models:
