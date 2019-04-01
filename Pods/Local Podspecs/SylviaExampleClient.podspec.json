@@ -1,0 +1,24 @@
+{
+  "name": "SylviaExampleClient",
+  "platforms": {
+    "ios": "9.0",
+    "osx": "10.11",
+    "tvos": "9.0"
+  },
+  "version": "1.1.0",
+  "source": {
+    "git": "git@github.com:swagger-api/swagger-mustache.git",
+    "tag": "v1.0.0"
+  },
+  "authors": "Sylvia",
+  "license": "Proprietary",
+  "homepage": "https://www.sylvia.com",
+  "summary": "Sylvia&#39;s example APIs",
+  "description": "Swagger Codegen - Auto generated example API model sources from YAML file",
+  "source_files": "SylviaExampleClient/Classes/**/*.swift",
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.5.0"
+    ]
+  }
+}
